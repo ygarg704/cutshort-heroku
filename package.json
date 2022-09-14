@@ -2,6 +2,7 @@
   "name": "cutshort-assignment",
   "version": "0.1.0",
   "private": true,
+  "main": "server.js",
   "dependencies": {
     "@emotion/react": "11.10.0",
     "@emotion/styled": "11.10.0",
